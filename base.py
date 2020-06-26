@@ -36,6 +36,8 @@ def create_database():
     except:
         pass
 
+create_database()
+
 ########################################################################################################################
 #ADDING EXPENSES FUNCTIONS
 
